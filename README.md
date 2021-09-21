@@ -1,4 +1,4 @@
-# FinData-and-Stats
+# Financial_Data_and_Statistics
 COMP0040 Module @UCL <br />
 -✨ Stock prices and log-returns time series <br />
 -✨ Distributions and fittings <br />
